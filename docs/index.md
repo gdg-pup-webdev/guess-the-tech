@@ -1,8 +1,9 @@
-# Documentation Index: Guess the Tech
+﻿# Documentation Index: Guess the Tech
 
 **Project slug:** `guess-the-tech`
 **Maintained by:** GDG PUP Technology (incoming CTO)
 **Last updated:** 2026-09-02
+**Built on FMD philosophy (v1.31.0)** - INDEX / STATE / FLAGS control plane for humans and AI; no FMD engine install.
 
 **Operating position:** [state.md](state.md) - read that first.
 
