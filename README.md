@@ -2,7 +2,25 @@
 
 GDG-themed quiz game: identify technologies by logos or hints, face progressive difficulty, and climb the leaderboard.
 
-## Getting Started
+## Table of Contents
+
+- [About](#about)
+- [Features](#features)
+- [Quick start](#quick-start)
+- [Documentation](#documentation)
+- [Contributors](#contributors)
+
+## About
+
+A GDG-themed quiz where players identify technologies from logos or hints, progress through difficulty levels, and compete on a leaderboard. Built for community events and casual learning play.
+
+## Features
+
+- Logo and hint-based tech identification
+- Progressive difficulty
+- Leaderboard ranking
+
+## Quick start
 
 ```bash
 # Bun or npm both work depending on your environment
@@ -13,16 +31,16 @@ bun run dev
 
 Open [http://localhost:3000](http://localhost:3000).
 
-See [DEPLOYMENT.md](DEPLOYMENT.md) for Vercel + Supabase notes.
-
----
+See [DEPLOYMENT.md](DEPLOYMENT.md) for Vercel + Supabase notes. Point at [FLAGS.md](FLAGS.md) for known gaps; keep secrets out of the repo.
 
 ## Documentation
 
-- [docs/state.md](docs/state.md) - Operating position / handover
-- [docs/index.md](docs/index.md) - Doc inventory
-- [FLAGS.md](FLAGS.md) - Improvement register
-- [AGENTS.md](AGENTS.md) - Agent load order
+| Doc | Purpose |
+|-----|---------|
+| [State](docs/state.md) | Operating position / handover |
+| [Index](docs/index.md) | Doc inventory |
+| [FLAGS](FLAGS.md) | Improvement register |
+| [AGENTS](AGENTS.md) | Agent load order |
 
 ## Contributors
 
